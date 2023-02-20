@@ -1,0 +1,2 @@
+../../Face_Detection/cascades/haarcascade_frontalface_alt.xml
+../../Face_Detection/cascades/haarcascade_frontalface_alt2.xml
